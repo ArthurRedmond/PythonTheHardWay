@@ -70,7 +70,7 @@ print("We'd have {} beans, {} jars, and {} crates.".format(*formula))
 
 
 people = 20
-cates = 30
+cats = 30
 dogs = 15
 
 
